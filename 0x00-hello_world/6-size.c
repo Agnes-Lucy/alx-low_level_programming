@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  main - c program that prints the size of various type on computer
+ *  main - prints ou sizes of data type in c
  *  Return: 0
- */
+*/
 int main(void)
 {
 	char a;
