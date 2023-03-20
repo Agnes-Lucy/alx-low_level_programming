@@ -3,8 +3,7 @@
 /**
  * main - main function
  * Return: 0
- */
-
+*/
 int main(void)
 {
 	int i;
@@ -25,9 +24,8 @@ int main(void)
 				{
 					putchar(',');
 					putchar(' ');
-				}			
+				}		
 			}
-
 		}
 	}
 	putchar('\n');
