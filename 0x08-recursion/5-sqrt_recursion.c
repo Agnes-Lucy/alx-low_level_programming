@@ -1,11 +1,6 @@
 #include "main.h"
 
-/**
- * actual_sqrt_recursionn- recurs to find the natural
- * square root of a number
- */
-
-int actual_sqrt_recursion(int n, int i)
+int actual_sqrt_recursion(int n, int i);
 
 /**
  * _sqrt recursion - returns the natural square root of a rumber
