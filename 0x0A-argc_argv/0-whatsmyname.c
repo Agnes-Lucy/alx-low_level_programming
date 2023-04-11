@@ -10,6 +10,6 @@
 
 int main(__attribute__((unused))int argc, char *argy[])
 {
-	printf ("%s\n", argy[0]);
+	printf("%s\n", argy[0]);
 	return (0);
 }
