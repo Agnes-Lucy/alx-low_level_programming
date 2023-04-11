@@ -3,20 +3,13 @@
 
 /**
  * main - Prints the number of arguments passed into it
- * @argc: argument count
- * @argv: argument vector
+ * @argc: Argument count
+ * @argv: Argument vector
  * Return: 0
  */
 
-int main(int argc, char *argv[])
+int main(int argc, __attribute__((unused))char *argv[])
 {
-	int i;
-
-	i = 0;
-	while (i < argc)
-	{
-		printf("%s\n", argv[i]);
-		i++;
-	}
+	printf("%d\n", argc - 1);
 	return (0);
 }
