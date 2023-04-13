@@ -9,6 +9,7 @@
  * @c: character used to initialize array
  * Return: null or array
  */
+
 char *create_array(unsigned int size, char c)
 {
 	char *p;
