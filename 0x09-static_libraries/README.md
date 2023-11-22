@@ -1,1 +1,1 @@
-This is a poject in static library
+This is a poject on static library on c.
